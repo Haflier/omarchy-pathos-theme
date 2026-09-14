@@ -7,7 +7,7 @@ A minimal Omarchy theme inspired by **philosophy and mathematics** for light mod
 ## Palette
 
 | Color | Hex |
-|---|---|---|
+|---|---|
 | 🔵 Blue | `#0747AF` |
 | 🟨 Parchment | `#C0C08A` |
 | 🔴 Red | `#E70F0F` |
