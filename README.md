@@ -176,4 +176,4 @@ local default_palette = {
 }
 ```
 
-Save it and you are done. You can back to default any time by changing this section to what is was at first place.
+Save it and you are done. You can go back to default any time by changing this section to what is was at first place.
