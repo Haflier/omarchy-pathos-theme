@@ -39,7 +39,6 @@ Go inside:
 Then replace ---@class Palette section to this:
 
 ```bash
-```
 ---@class Palette
 local default_palette = {
 	bg = "#000000",
@@ -106,5 +105,3 @@ local default_palette = {
 	base0F = "#ff4200",
 }
 ```
-```
-
